@@ -1,0 +1,28 @@
+Geforce Now anti afk for Windiows
+-------
+
+A script that will stop Geforce Now from kicking you after 5-7 minutes of AFK.
+It doesn't matter if the Geforce Now window is active or not.
+
+This solution is a combination of:
+* https://github.com/ZoltePudeleczko/GeForce-NOW-AntiAFK
+* https://github.com/Getsumi3/gfn-antiafk
+
+_Proceed at your own risk. I'm not taking any responsibilities (nor the creator) if you'll get banned in some games because of this script or if your PC will turn into a supernova and blew half of the planet._
+
+Use it
+~~~~~~~
+1. Download the exe and start it.
+2. Download AutoHotKey https://www.autohotkey.com/ and start the ahk file.
+
+How it works?
+~~~~~~~
+1. It checks if your Geforce Now is running. If not, than it doesn't do anything.
+2. If Geforce Now is running, it's check if it has to set the focus to the screen.
+3. It sends a F13 Key command.
+4. It removes the focus from the screen, if it wasn't focused at the beginning.
+5. It repeats the process each 4 minutes.
+
+
+Have fun,
+Matthias Achtelik

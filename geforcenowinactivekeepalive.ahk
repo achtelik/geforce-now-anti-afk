@@ -27,7 +27,7 @@ Loop
             Sleep(1)
             WinMove(0, 0, MonitorRight, MonitorBottom, "GeForce NOW")
         }
-        Sleep(240000)
     }
+    Sleep(240000)
 }
 Return
