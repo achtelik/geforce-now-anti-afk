@@ -22,6 +22,6 @@ _Proceed at your own risk. I'm not taking any responsibilities (nor the creator)
 4. It removes the focus from the screen, if it wasn't focused at the beginning.
 5. It repeats the process each 4 minutes.
 
-
-Have fun,
+''''
+Have fun, +
 Matthias Achtelik
