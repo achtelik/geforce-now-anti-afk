@@ -1,4 +1,4 @@
-﻿; GEFORCE NOW ANTI AFK BY HACKERCODER
+﻿; GEFORCE NOW ANTI AFK BY achtelik@github INSPIRED BY ZoltePudeleczko@github and Getsumi3@github
 ; REMOVED: #NoEnv
 SetWorkingDir(A_ScriptDir)
 CoordMode("Mouse", "Window")
